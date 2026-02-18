@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://weihaotu.github.io/index.html</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 May 2025 08:32:43 +0800</lastBuildDate>
+    <atom:link href="https://weihaotu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://weihaotu.github.io/about.html</link>
+      <pubDate>Fri, 29 Nov 2024 20:42:35 +0800</pubDate>
+      <guid>https://weihaotu.github.io/about.html</guid>
+      <description>&lt;h2 id=&#34;我是谁&#34;&gt;我是谁&lt;/h2&gt;
+&lt;p&gt;复旦大学大数据学院应用统计研究生，本科毕业于 &lt;a href=&#34;https://www.buaa.edu.cn/&#34;&gt;BUAA&lt;/a&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;得益于本科的数学课程学习，能钻牛角尖，善模仿修补，现靠残存的高代和概率论过活；&lt;/li&gt;
+&lt;li&gt;很长一段时间内功利短视，最近可能好点；&lt;/li&gt;
+&lt;li&gt;刚入坑网站，未来会投入更多时间；&lt;/li&gt;
+&lt;li&gt;常妄图思考本质，奈何道行浅薄，不过游于表象；&lt;/li&gt;
+&lt;li&gt;意义怪，最近经常想自己做某些事的动机是什么，会怎样发展，可能有什么结果，与之关联的意义是什么；&lt;/li&gt;
+&lt;li&gt;正尝试修炼亲密关系一课，免不了狼狈踉跄，但此中亦有趣味。&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://weihaotu.github.io/posts/my-first-post.html</link>
+      <pubDate>Fri, 29 Nov 2024 13:52:36 +0800</pubDate>
+      <guid>https://weihaotu.github.io/posts/my-first-post.html</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello, world&lt;/h2&gt;
+&lt;p&gt;Hello world! Welcome to visit this website.&lt;/p&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;Hello.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;f&lt;/span&gt;(a,b):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; a &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; b
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
